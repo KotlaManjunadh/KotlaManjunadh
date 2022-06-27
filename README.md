@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KotlaManjunadh
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning DSA and Deep learning
+- 👀 I’m interested in Software Development and Analytics.
+- 🌱 I’m currently learning DSA and Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me on k.manjunadh2002@gmail.com
 
